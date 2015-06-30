@@ -1,0 +1,6 @@
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.exe.config
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.exe
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\bin\Debug\Dishes.pdb
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.csprojResolveAssemblyReference.cache
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.exe
+c:\users\mcosta\documents\visual studio 2013\Projects\Dishes\Dishes\obj\Debug\Dishes.pdb
